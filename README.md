@@ -1,5 +1,5 @@
 <img width="100%" align="center" src="https://media.licdn.com/dms/image/v2/D5616AQGaeAU29UnYDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714552818972?e=1735171200&v=beta&t=YR57qQ0VNBTmSMh60yZHCz7IdEzL-iK4FuM6-6aQWcw">
-<h1 align="center">Hi there 👋, I'm Istiak Ahmmed</h1>
+<h1 align="center">Hi there 👋, I'm Rakib </h1>
 <h3 align="center">An energetic Web & Mobile Application developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahmmed2292&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahmmed2292" /> </p>
