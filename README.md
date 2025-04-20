@@ -1,33 +1,32 @@
 <img width="100%" align="center" src="https://media.licdn.com/dms/image/v2/D5616AQGaeAU29UnYDg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714552818972?e=1735171200&v=beta&t=YR57qQ0VNBTmSMh60yZHCz7IdEzL-iK4FuM6-6aQWcw">
 <h1 align="center">Hi there 👋, I'm Rakib </h1>
-<h3 align="center">An energetic Web & Mobile Application developer from Bangladesh</h3>
+<h3 align="center">An energetic  Mobile Application developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahmmed2292&label=Profile%20views&color=0e75b6&style=flat" alt="istiakahmmed2292" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakahmmed2292&label=Profile%20views&color=0e75b6&style=flat" alt="mdrakib90757" /> </p>
 
-- 🔭 I’m currently working on **Inventory Management Software**
+- 🔭 I’m currently working on **FoodPanda UI Clone**
 
-- 🌱 I’m currently learning **Laravel,React,React-Native**
+- 🌱 I’m currently learning **Flutter,Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/istiakahmmed2292/](https://github.com/istiakahmmed2292/)
+- 👨‍💻 All of my projects are available at [https://github.com/mdrakib90757/](https://github.com/mdrakib90757/)
 
-- 📝 I regularly write articles on [https://github.com/istiakahmmed2292/](https://github.com/istiakahmmed2292/)
+- 📝 I regularly write articles on [https://github.com/mdrakib90757/](https://github.com/mdrakib90757/)
 
-- 💬 Ask me about **Laravel,PHP,MySQL,JavaScript,HTML,CSS(Bootstrap)**
+- 💬 Ask me about **Flutter,Dart,Firebase,App Development**
 
-- 📫 How to reach me **istiakahmmed.official@gmail.com**
+- 📫 How to reach me **mdrakibp2004@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/istiakahmmed2292/](https://github.com/istiakahmmed2292/)
+- 📄 Know about my experiences [https://github.com/mdrakib90757/](https://github.com/mdrakib90757/)
 
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiakahmmed2292" alt="istiakahmmed2292" /></a> </p>
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdrakib90757" alt="mdrakib90757" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/siyamistiak" target="blank"><img src="https://img.shields.io/twitter/follow/siyamistiak?logo=twitter&style=for-the-badge" alt="siyamistiak" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/siyamistiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siyamistiak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/istiak-ahmmed-siyam-a90702234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/istiakahmmed2292" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/istiak.legend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/istiak.legend" height="30" width="40" /></a>
-<a href="https://www.instagram.com/istiakahmmed3373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/istiakahmmed3373" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mdrakib.2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mdrakib.2004" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
